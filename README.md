@@ -168,5 +168,5 @@ credit-card-complaint-dashboard/
 ├── images /
     └── Credit_Card_Complaint_Dashboard.png
 └── data/
-    └── complaints.csv
+    └── Complaints.xlsx
 ```
